@@ -15,7 +15,7 @@
 
 **✏️ My Journey**
 
-- 🧪 I started my coding journey by building a **chess AI** for Lichess.
+- 🧪 I started my coding journey by building a [**chess AI** for Lichess](https://lichess.org/@/xdmanbot).
 - ⭐ I failed in my first year of competitive programming, but I never gave up.
 - ✨ At 16, I ranked **16th out of 60** in the finals and secured a **bronze medal**.
 - 📚 I love blending **brute-force** techniques with smart optimizations for tough problems.
